@@ -1,9 +1,10 @@
 # Data Science Career Track - Springboard 2020
 
 Maintained by:
+> @abhinokha:  Abhishek
 > @kashyap-17: Kashyap  
 > @srmsoumya:  Soumya Ranjan Mohanty    
-> @suvadip:    Suvadip Chakraborty  
+> @suvadip:    Suvadip Chakraborty
 
 ### Repository Structure
 ```
