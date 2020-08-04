@@ -27,3 +27,4 @@ YYYY-MM-DD_{SESSION}_{AUTHOR}_{PROCESS}.ipynb
 
 ### Sessions
 1. [Data Wrangling](nbs/dw)
+2. [EDA](nbs/eda)
